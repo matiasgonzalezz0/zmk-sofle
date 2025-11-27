@@ -20,5 +20,6 @@
 
 &left_encoder {
     status = "okay";
+    resolution = <4>;
+    steps = <40>;
 };
-
