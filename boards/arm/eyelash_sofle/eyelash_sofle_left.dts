@@ -21,7 +21,3 @@
 &left_encoder {
     status = "okay";
 };
-
-&soft_off_wakers {
-    status = "okay";
-};
