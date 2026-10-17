@@ -226,7 +226,7 @@ layers:
   - RGB COLOR HSB(0,100,50)
   - RGB COLOR HSB(120,100,50)
   - RGB COLOR HSB(240,100,50)
-  - {t: '$$mdi:transfer$$', type: trans}
+  - EP ON
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
